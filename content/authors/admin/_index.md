@@ -6,6 +6,7 @@ bio: Harnessing the power of open source intelligence, to assist others with the
   maximizing the  skills necessary to carry out effective and optimal recon and
   open source intel gathering.
 interests:
+  - OSINT
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
@@ -16,9 +17,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/jongraces
-  - icon: google-scholar
-    icon_pack: fab
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
